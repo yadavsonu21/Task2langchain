@@ -1,0 +1,221 @@
+{
+"questions": [
+"question": "which company you work for ?",
+"answer": {"response": "I am a chatbot and currently customized for swiggy."},
+{
+"question": "How do I place an order on Swiggy?",
+"answer": {"response": "To place an order on Swiggy, simply visit our website or download our mobile app and create an account. From there, you can browse through the available restaurants and food items, add them to your cart, and proceed to checkout."}
+},
+{
+"question": "How do I track my order on Swiggy?",
+"answer": {"response": "Once you have placed an order on Swiggy, you can track its status in real-time by visiting the 'My Orders' section of your account on our website or mobile app. You will receive regular updates via email and SMS as well."}
+},
+{
+"question": "What payment methods does Swiggy accept?",
+"answer": {"response": "We accept various payment methods on Swiggy, including credit/debit cards, net banking, e-wallets, and cash on delivery (where available). You can choose your preferred method during checkout."}
+},
+{
+"question": "What if my order is delivered late or incomplete?",
+"answer": {"response": "We strive to ensure all orders are delivered on time and accurately. However, in case of any issues, please contact our customer support team immediately and we will do our best to resolve the issue as soon as possible."}
+},
+{
+"question": "Can I cancel my order on Swiggy after placing it?",
+"answer": {"response": "Yes, you can cancel your order on Swiggy before it is dispatched from the restaurant. Simply visit the 'My Orders' section of your account and click on the 'Cancel Order' button next to the relevant order."}
+},
+{
+"question": "Is there a minimum order value on Swiggy?",
+"answer": {"response": "The minimum order value on Swiggy varies depending on the restaurant and location. Please check the restaurant's profile or the checkout page for details."}
+},
+{
+"question": "Can I order food from multiple restaurants on Swiggy?",
+"answer": {"response": "No, currently you can only order from one restaurant at a time on Swiggy. However, you can place separate orders from multiple restaurants if you wish."}
+},
+{
+"question": "How do I apply a coupon code on Swiggy?",
+"answer": {"response": "To apply a coupon code on Swiggy, simply enter it in the 'Apply Coupon' field during checkout and click on the 'Apply' button. The discount will be automatically calculated and applied to your order."}
+},
+{
+"question": "What if my order is delivered with incorrect items?",
+"answer": {"response": "In case your order is delivered with incorrect items, please contact our customer support team immediately and we will arrange for a replacement or refund as per your preference."}
+},
+{
+"question": "Can I leave special instructions for my order on Swiggy?",
+"answer": {"response": "Yes, you can leave special instructions for your order (such as dietary preferences, spice level, etc.) in the 'Special Instructions' field during checkout. We will do our best to accommodate your request."}
+},
+{
+"question": "Is there a delivery fee on Swiggy?",
+"answer": {"response": "The delivery fee on Swiggy varies depending on the location and restaurant. Please check the restaurant's profile or the checkout page for details."}
+},
+{
+"question": "How do I change my delivery address on Swiggy?",
+"answer": {"response": "To change your delivery address on Swiggy, visit the 'My Profile' section of your account and click on the 'Edit Address' button. You can add, edit, or delete addresses as per your preference."}
+},
+{
+"question": "What if I have a complaint about my order on Swiggy?",
+"answer": {"response": "We take all complaints seriously and strive to resolve them as soon as possible. Please contact our customer support team with details about your complaint and we will investigate the issue and take appropriate action."}
+},
+{
+"question": "What if I forget my password for Swiggy?",
+"answer": {"response": "If you forget your password for Swiggy, simply click on the 'Forgot Password' link on the login page and follow the instructions to reset your password. Alternatively, contact our customer support team for assistance."}
+},
+{
+  "data": [
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept major credit cards, such as Visa, Mastercard, and American Express. We also support payment through PayPal."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "Once your order is shipped, we will provide you with a tracking number. You can enter this tracking number on our website to track the status of your order."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "We have a 30-day return policy. If you are not satisfied with your purchase, you can return the item within 30 days of receiving it for a full refund or exchange."
+    },
+    {
+      "question": "Do you offer international shipping?",
+      "answer": "Yes, we offer international shipping to most countries. The shipping cost and delivery time may vary depending on the destination. During checkout, you can select your country for shipping options."
+    },
+    {
+      "question": "How long does it take to receive my order?",
+      "answer": "The delivery time depends on your location and the shipping method you choose during checkout. Typically, orders are delivered within 3-7 business days."
+    },
+    {
+      "question": "Can I cancel my order?",
+      "answer": "You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and they will assist you with the cancellation process."
+    },
+    {
+      "question": "What is the process for canceling my order?",
+      "answer": "To cancel your order, please follow these steps:\n1. Contact our customer support team via phone or email.\n2. Provide them with your order number and relevant details.\n3. Our support team will check the status of your order and confirm if it's eligible for cancellation.\n4. If your order is eligible, they will guide you through the cancellation process and assist with any necessary refunds or adjustments."
+    },
+    {
+      "question": "Is my personal information secure?",
+      "answer": "Yes, we take the security of your personal information seriously. We use industry-standard encryption techniques to protect your data and ensure a secure shopping experience."
+    },
+    {
+      "question": "Do you offer discounts or promotions?",
+      "answer": "Yes, we frequently offer discounts and promotions. Sign up for our newsletter or follow us on social media to stay updated on our latest offers and deals."
+    },
+    {
+      "question": "Can I modify my order after it has been placed?",
+      "answer": "If you need to make any changes to your order, such as updating the shipping address or adding/removing items, please contact our customer support team as soon as possible. They will assist you in making the necessary modifications if your order has not been shipped yet."
+    },
+    {
+      "question": "What happens if my order is already shipped and I want to cancel it?",
+      "answer": "If your order has already been shipped, unfortunately, it cannot be canceled. In such cases, you can initiate a return once you receive the items, following our return policy guidelines for a refund or exchange."
+    },
+    {
+      "question": "How long does it take to process the cancellation and receive a refund?",
+      "answer": "Once your cancellation request is approved, we strive to process the refund as quickly as possible. The exact time it takes for the refund to reflect in your account may vary depending on your payment method and financial institution. Typically, refunds are processed within 3-5 business days."
+    },
+    {
+      "question": "What if I have more questions about the cancellation process?",
+      "answer": "If you have any additional questions or need further assistance regarding the cancellation process, please re…
+{
+
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept major credit cards, such as Visa, Mastercard, and American Express. We also support payment through PayPal."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "Once your order is shipped, we will provide you with a tracking number. You can enter this tracking number on our website to track the status of your order."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "We have a 30-day return policy. If you are not satisfied with your purchase, you can return the item within 30 days of receiving it for a full refund or exchange."
+    },
+    {
+      "question": "Do you offer international shipping?",
+      "answer": "Yes, we offer international shipping to most countries. The shipping cost and delivery time may vary depending on the destination. During checkout, you can select your country for shipping options."
+    },
+    {
+      "question": "How long does it take to receive my order?",
+      "answer": "The delivery time depends on your location and the shipping method you choose during checkout. Typically, orders are delivered within 3-7 business days."
+    },
+    {
+      "question": "Can I cancel my order?",
+      "answer": "You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and they will assist you with the cancellation process."
+    },
+    {
+      "question": "What is the process for canceling my order?",
+      "answer": "To cancel your order, please follow these steps:\n1. Contact our customer support team via phone or email.\n2. Provide them with your order number and relevant details.\n3. Our support team will check the status of your order and confirm if it's eligible for cancellation.\n4. If your order is eligible, they will guide you through the cancellation process and assist with any necessary refunds or adjustments."
+    },
+    {
+      "question": "Is my personal information secure?",
+      "answer": "Yes, we take the security of your personal information seriously. We use industry-standard encryption techniques to protect your data and ensure a secure shopping experience."
+    },
+    {
+      "question": "Do you offer discounts or promotions?",
+      "answer": "Yes, we frequently offer discounts and promotions. Sign up for our newsletter or follow us on social media to stay updated on our latest offers and deals."
+    },
+    {
+      "question": "Can I modify my order after it has been placed?",
+      "answer": "If you need to make any changes to your order, such as updating the shipping address or adding/removing items, please contact our customer support team as soon as possible. They will assist you in making the necessary modifications if your order has not been shipped yet."
+    },
+    {
+      "question": "What happens if my order is already shipped and I want to cancel it?",
+      "answer": "If your order has already been shipped, unfortunately, it cannot be canceled. In such cases, you can initiate a return once you receive the items, following our return policy guidelines for a refund or exchange."
+    },
+    {
+      "question": "How long does it take to process the cancellation and receive a refund?",
+      "answer": "Once your cancellation request is approved, we strive to process the refund as quickly as possible. The exact time it takes for the refund to reflect in your account may vary depending on your payment method and financial institution. Typically, refunds are processed within 3-5 business days."
+    },
+    {
+      "question": "What if I have more questions about the cancellation process?",
+      "answer": "If you have any additional questions or need further assistance regarding the cancellation process, please reach out to our customer support team. They will be happy to help you and provide any necessary clarification."
+    },
+    {
+      "question": "Can I cancel part of my order or only the entire order?",
+      "answer": "In most cases, you can cancel either the entire order or specific items within the order. Contact our customer support team with your order details, and they will guide you through the available options and assist you accordingly."
+    }
+}
+{
+    {
+      "question": "What cuisines do you offer for delivery?",
+      "answer": "We offer a wide range of cuisines for delivery, including Italian, Chinese, Indian, Mexican, Thai, and more. You can explore the available options on our website or app."
+    },
+    {
+      "question": "How can I place an order for food delivery?",
+      "answer": "To place an order, follow these steps:\n1. Download our mobile app or visit our website.\n2. Enter your location to view the restaurants available in your area.\n3. Browse the menu, select the items you want, and customize your order if needed.\n4. Add the items to your cart and proceed to checkout.\n5. Provide your delivery address and choose a payment method.\n6. Review your order and confirm the payment.\n7. Sit back and wait for your delicious food to be delivered!"
+    },
+    {
+      "question": "What are your delivery hours?",
+      "answer": "Our delivery hours may vary depending on the restaurant and location. In general, we strive to provide delivery services from morning until late evening. You can check the available delivery hours for each restaurant on our platform."
+    },
+    {
+      "question": "Do you have a minimum order requirement for delivery?",
+      "answer": "Yes, some restaurants may have a minimum order requirement for delivery. The minimum order amount, if applicable, will be specified on the restaurant's menu page. Please note that the minimum order requirement may vary between restaurants."
+    },
+    {
+      "question": "Can I track my food delivery?",
+      "answer": "Yes, you can track your food delivery in real-time. Once your order is confirmed and out for delivery, you will receive a notification with a tracking link. Click on the link to see the status of your delivery and the estimated arrival time of your food."
+    },
+    {
+      "question": "What if there is an issue with my order?",
+      "answer": "If you encounter any issues with your order, such as missing items, incorrect items, or delays, please contact our customer support team immediately. We will investigate the matter and take appropriate actions to resolve the issue and ensure your satisfaction."
+    },
+    {
+      "question": "Do you offer contactless delivery?",
+      "answer": "Yes, we offer contactless delivery options for your convenience and safety. During the checkout process, you can request contactless delivery, and our delivery partner will leave the food at your doorstep or preferred location as instructed."
+    },
+    {
+      "question": "Can I cancel my food order?",
+      "answer": "You can cancel your food order if it has not been prepared or picked up by the delivery partner. To cancel your order, please contact our customer support team with your order details, and they will assist you with the cancellation process and any applicable refund."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept various payment methods, including credit cards, debit cards, mobile wallets, and online payment platforms. You can choose your preferred payment option during the checkout process."
+    },
+    {
+      "question": "Do you offer discounts or promotions for food delivery?",
+      "answer": "Yes, we frequently offer discounts and promotions for food delivery. Keep an eye on our app, website, or subscribe to our newsletter to stay updated on the latest offers and deals."
+    },
+    {
+      "question": "How can I provide feedback or rate the restaurant or delivery service?",
+      "answer": "After your order is delivered, you will have the option to provide feedback and rate the restaurant and delivery service. You can do this through the app or website by accessing your order history and selecting the appropriate options to share your experience."
+    },
+    {
+      "question": "Can I schedule a future delivery?",
+      "answer": "Yes, you can schedule a future delivery for your convenience. During the ordering process, you will have the option to choose a specific date and time for your food delivery. Just select your preferred delivery time, and we will ensure your order arrives as scheduled."
+    }
